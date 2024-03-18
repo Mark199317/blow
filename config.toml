@@ -10,11 +10,13 @@ enableEmoji = true
 ignoreErrors = ["error-remote-getjson"]
 
 
+
 [params]
   # dir name of your blog content (default is `content/posts`).
   # the list of set content will show up on your index page (baseurl).
   commit = false
   rss = true
+  canonifyURLs = true
 
 [search]
   summaryInclude = 180 # show only part of content in search result.
