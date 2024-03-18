@@ -22,7 +22,7 @@ series = ["ккк", "fdfsf", ]
 
 
 ## Список партнерских программ
-![alt text](/images/work/11.png)
+![alt text]({{ .Site.BaseURL }}/images/work/11.png)
 
 ## image screenshot 
 
