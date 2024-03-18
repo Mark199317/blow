@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fdfsf on New my site</title>
-    <link>//localhost:1313/blow/series/fdfsf/</link>
+    <link>http://localhost:1313/blow/series/fdfsf/</link>
     <description>Recent content in Fdfsf on New my site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>url-site</copyright>
     <lastBuildDate>Sun, 17 Mar 2024 16:36:29 +0200</lastBuildDate>
-    <atom:link href="//localhost:1313/blow/series/fdfsf/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blow/series/fdfsf/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Products</title>
-      <link>//localhost:1313/blow/product/products/</link>
+      <link>http://localhost:1313/blow/product/products/</link>
       <pubDate>Sun, 17 Mar 2024 16:36:29 +0200</pubDate>
-      <guid>//localhost:1313/blow/product/products/</guid>
+      <guid>http://localhost:1313/blow/product/products/</guid>
       <description>ПРОДАВАЕМЫЕ ПРОДУКТЫ ПАРТНЕРОК </description>
     </item>
     <item>
       <title>Works</title>
-      <link>//localhost:1313/blow/work/works/</link>
+      <link>http://localhost:1313/blow/work/works/</link>
       <pubDate>Sun, 17 Mar 2024 16:35:02 +0200</pubDate>
-      <guid>//localhost:1313/blow/work/works/</guid>
+      <guid>http://localhost:1313/blow/work/works/</guid>
       <description>Список партнерских программ image screenshot </description>
     </item>
     <item>
       <title>Test</title>
-      <link>//localhost:1313/blow/posts/test/</link>
+      <link>http://localhost:1313/blow/posts/test/</link>
       <pubDate>Sun, 17 Mar 2024 15:32:16 +0200</pubDate>
-      <guid>//localhost:1313/blow/posts/test/</guid>
+      <guid>http://localhost:1313/blow/posts/test/</guid>
       <description>dsdadasd&#xA;asasas dsdasds ffdf sdasdsaaaaaaaaaaaaaaaaaaaaaaaaaaadsdsdd&#xA;function greet(name) { return &amp;ldquo;Hello, &amp;quot; + name + &amp;ldquo;!&amp;rdquo;; } console.log(greet(&amp;ldquo;World&amp;rdquo;));</description>
     </item>
   </channel>

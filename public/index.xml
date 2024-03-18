@@ -2,81 +2,81 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>New my site</title>
-    <link>//localhost:1313/blow/</link>
+    <link>http://localhost:1313/blow/</link>
     <description>Recent content on New my site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>url-site</copyright>
     <lastBuildDate>Sun, 17 Mar 2024 16:36:29 +0200</lastBuildDate>
-    <atom:link href="//localhost:1313/blow/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blow/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Products</title>
-      <link>//localhost:1313/blow/product/products/</link>
+      <link>http://localhost:1313/blow/product/products/</link>
       <pubDate>Sun, 17 Mar 2024 16:36:29 +0200</pubDate>
-      <guid>//localhost:1313/blow/product/products/</guid>
+      <guid>http://localhost:1313/blow/product/products/</guid>
       <description>ПРОДАВАЕМЫЕ ПРОДУКТЫ ПАРТНЕРОК </description>
     </item>
     <item>
       <title>Works</title>
-      <link>//localhost:1313/blow/work/works/</link>
+      <link>http://localhost:1313/blow/work/works/</link>
       <pubDate>Sun, 17 Mar 2024 16:35:02 +0200</pubDate>
-      <guid>//localhost:1313/blow/work/works/</guid>
+      <guid>http://localhost:1313/blow/work/works/</guid>
       <description>Список партнерских программ image screenshot </description>
     </item>
     <item>
       <title>Test</title>
-      <link>//localhost:1313/blow/posts/test/</link>
+      <link>http://localhost:1313/blow/posts/test/</link>
       <pubDate>Sun, 17 Mar 2024 15:32:16 +0200</pubDate>
-      <guid>//localhost:1313/blow/posts/test/</guid>
+      <guid>http://localhost:1313/blow/posts/test/</guid>
       <description>dsdadasd&#xA;asasas dsdasds ffdf sdasdsaaaaaaaaaaaaaaaaaaaaaaaaaaadsdsdd&#xA;function greet(name) { return &amp;ldquo;Hello, &amp;quot; + name + &amp;ldquo;!&amp;rdquo;; } console.log(greet(&amp;ldquo;World&amp;rdquo;));</description>
     </item>
     <item>
       <title></title>
-      <link>//localhost:1313/blow/search/_index.es/</link>
+      <link>http://localhost:1313/blow/search/_index.es/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/blow/search/_index.es/</guid>
+      <guid>http://localhost:1313/blow/search/_index.es/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>//localhost:1313/blow/search/_index.fr/</link>
+      <link>http://localhost:1313/blow/search/_index.fr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/blow/search/_index.fr/</guid>
+      <guid>http://localhost:1313/blow/search/_index.fr/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>//localhost:1313/blow/search/_index.hi/</link>
+      <link>http://localhost:1313/blow/search/_index.hi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/blow/search/_index.hi/</guid>
+      <guid>http://localhost:1313/blow/search/_index.hi/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>//localhost:1313/blow/search/_index.jp/</link>
+      <link>http://localhost:1313/blow/search/_index.jp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/blow/search/_index.jp/</guid>
+      <guid>http://localhost:1313/blow/search/_index.jp/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>//localhost:1313/blow/search/_index.pl/</link>
+      <link>http://localhost:1313/blow/search/_index.pl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/blow/search/_index.pl/</guid>
+      <guid>http://localhost:1313/blow/search/_index.pl/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>//localhost:1313/blow/search/_index.ru/</link>
+      <link>http://localhost:1313/blow/search/_index.ru/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/blow/search/_index.ru/</guid>
+      <guid>http://localhost:1313/blow/search/_index.ru/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>//localhost:1313/blow/search/_index.zh-cn/</link>
+      <link>http://localhost:1313/blow/search/_index.zh-cn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>//localhost:1313/blow/search/_index.zh-cn/</guid>
+      <guid>http://localhost:1313/blow/search/_index.zh-cn/</guid>
       <description></description>
     </item>
   </channel>
