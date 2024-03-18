@@ -22,7 +22,8 @@ series = ["ккк", "fdfsf", ]
 
 
 ## Список партнерских программ
-![alt text]({{ .Site.BaseURL }}/images/work/11.png)
+![alt text](https://mark199317.github.io/blow/images/work/11.png)
+
 
 ## image screenshot 
 
