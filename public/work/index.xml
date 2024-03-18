@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Works on New my site</title>
+    <link>//localhost:1313/blow/work/</link>
+    <description>Recent content in Works on New my site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>url-site</copyright>
+    <lastBuildDate>Sun, 17 Mar 2024 16:35:02 +0200</lastBuildDate>
+    <atom:link href="//localhost:1313/blow/work/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Works</title>
+      <link>//localhost:1313/blow/work/works/</link>
+      <pubDate>Sun, 17 Mar 2024 16:35:02 +0200</pubDate>
+      <guid>//localhost:1313/blow/work/works/</guid>
+      <description>Список партнерских программ image screenshot </description>
+    </item>
+  </channel>
+</rss>

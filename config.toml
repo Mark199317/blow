@@ -1,0 +1,100 @@
+baseURL = "localhost:1313/blow"
+title = "New my site"
+author = "Admin"
+copyright = "url-site"
+paginate = 10
+languageCode = "en"
+theme = "tailwind"
+enableRobotsTXT = true
+enableEmoji = true
+ignoreErrors = ["error-remote-getjson"]
+
+
+[params]
+  # dir name of your blog content (default is `content/posts`).
+  # the list of set content will show up on your index page (baseurl).
+  commit = false
+  rss = true
+
+[search]
+  summaryInclude = 180 # show only part of content in search result.
+  minMatchCharLength = 2 # https://www.fusejs.io/api/options.html#minmatchcharlength
+  threshold = 0.3 # https://www.fusejs.io/api/options.html#threshol
+  
+
+# Настройки сборки (Build)
+[Build]
+  staticDir = ""
+
+  [params.header]
+    logo = "favicon.ico"
+
+  [params.footer]
+    since = 2024
+    poweredby = false
+
+[menu]
+
+  [[menu.main]]
+    identifier = "post"
+    name = "Статьи"
+    pageRef = "/posts"
+    weight = 1
+
+  [[menu.main]]
+    identifier = "product"
+    name = "Товары для здоровья"
+    pageRef = "/product"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "work"
+    name = "Заработок в Интернете"
+    pageRef = "/work"
+    weight = 3
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+[services]
+  [services.disqus]
+    shortname = 'https-mark199317-github-io-blogws'
+
+[social_media]
+  [[social_media.items]]
+    enabled = true
+    title = 'Face-book'
+    icon = 'brand-facebook'
+    link = 'https://www.facebook.com/'
+
+  [[social_media.items]]
+    enabled = true
+    title = 'Twit-ter'
+    icon = 'brand-x'
+    link = 'https://twitter.com/'
+
+  [[social_media.items]]
+    enabled = true
+    title = 'Inst-agram'
+    icon = 'brand-instagram'
+    link = 'https://www.instagram.com/'
+
+[[social_media.items]]
+    enabled = false
+    title = 'Instagram'
+    icon = 'brand-instagram'
+    link = 'https://www.instagram.com/'
+
+  [[social_media.items]]
+    enabled = false
+    title = 'LinkedIn'
+    icon = 'brand-linkedin'
+    link = 'https://www.linkedin.com/'
+
+  [[social_media.items]]
+    enabled = false
+    title = 'Github'
+    icon = 'brand-github'
+    link = 'https://github.com/tomowang'
