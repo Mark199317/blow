@@ -27,4 +27,4 @@ series = ["ккк", "fdfsf", ]
 
 ## image screenshot 
 
-![alt text](/images/work/12.png)
+![alt text](/blow/images/work/12.png)
