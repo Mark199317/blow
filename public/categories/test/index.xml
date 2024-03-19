@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Test on New my site</title>
-    <link>http://localhost:1313/blow/categories/test/</link>
+    <link>https://mark199317.github.io/blow/categories/test/</link>
     <description>Recent content in Test on New my site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <copyright>url-site</copyright>
     <lastBuildDate>Sun, 17 Mar 2024 15:32:16 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/blow/categories/test/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mark199317.github.io/blow/categories/test/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
-      <link>http://localhost:1313/blow/posts/test/</link>
+      <link>https://mark199317.github.io/blow/posts/test/</link>
       <pubDate>Sun, 17 Mar 2024 15:32:16 +0200</pubDate>
-      <guid>http://localhost:1313/blow/posts/test/</guid>
+      <guid>https://mark199317.github.io/blow/posts/test/</guid>
       <description>dsdadasd&#xA;asasas dsdasds ffdf sdasdsaaaaaaaaaaaaaaaaaaaaaaaaaaadsdsdd&#xA;function greet(name) { return &amp;#34;Hello, &amp;#34; + name + &amp;#34;!&amp;#34;; } console.log(greet(&amp;#34;World&amp;#34;)); </description>
     </item>
   </channel>
