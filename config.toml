@@ -5,6 +5,7 @@ copyright = "url-site"
 paginate = 10
 languageCode = "ru"
 defaultContentLanguage = "ru"
+enableInlineShortcodes = true
 theme = "tailwind"
 enableRobotsTXT = true
 enableEmoji = true
