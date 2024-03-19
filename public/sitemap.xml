@@ -2,69 +2,69 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mark199317.github.io/blow/categories/categories/</loc>
+    <loc>http://localhost:1313/blow/categories/categories/</loc>
     <lastmod>2024-03-17T16:36:29+02:00</lastmod>
   </url><url>
-    <loc>https://mark199317.github.io/blow/categories/</loc>
+    <loc>http://localhost:1313/blow/categories/</loc>
     <lastmod>2024-03-17T16:36:29+02:00</lastmod>
   </url><url>
-    <loc>https://mark199317.github.io/blow/series/fdfsf/</loc>
+    <loc>http://localhost:1313/blow/series/fdfsf/</loc>
     <lastmod>2024-03-17T16:36:29+02:00</lastmod>
   </url><url>
-    <loc>https://mark199317.github.io/blow/</loc>
+    <loc>http://localhost:1313/blow/</loc>
     <lastmod>2024-03-17T16:36:29+02:00</lastmod>
   </url><url>
-    <loc>https://mark199317.github.io/blow/product/</loc>
+    <loc>http://localhost:1313/blow/product/</loc>
     <lastmod>2024-03-17T16:36:29+02:00</lastmod>
   </url><url>
-    <loc>https://mark199317.github.io/blow/product/products/</loc>
+    <loc>http://localhost:1313/blow/product/products/</loc>
     <lastmod>2024-03-17T16:36:29+02:00</lastmod>
   </url><url>
-    <loc>https://mark199317.github.io/blow/series/</loc>
+    <loc>http://localhost:1313/blow/series/</loc>
     <lastmod>2024-03-17T16:36:29+02:00</lastmod>
   </url><url>
-    <loc>https://mark199317.github.io/blow/series/%D0%BA%D0%BA%D0%BA/</loc>
+    <loc>http://localhost:1313/blow/series/%D0%BA%D0%BA%D0%BA/</loc>
     <lastmod>2024-03-17T16:36:29+02:00</lastmod>
   </url><url>
-    <loc>https://mark199317.github.io/blow/work/</loc>
+    <loc>http://localhost:1313/blow/work/</loc>
     <lastmod>2024-03-17T16:35:02+02:00</lastmod>
   </url><url>
-    <loc>https://mark199317.github.io/blow/work/works/</loc>
+    <loc>http://localhost:1313/blow/work/works/</loc>
     <lastmod>2024-03-17T16:35:02+02:00</lastmod>
   </url><url>
-    <loc>https://mark199317.github.io/blow/posts/</loc>
+    <loc>http://localhost:1313/blow/posts/</loc>
     <lastmod>2024-03-17T15:32:16+02:00</lastmod>
   </url><url>
-    <loc>https://mark199317.github.io/blow/categories/test/</loc>
+    <loc>http://localhost:1313/blow/categories/test/</loc>
     <lastmod>2024-03-17T15:32:16+02:00</lastmod>
   </url><url>
-    <loc>https://mark199317.github.io/blow/posts/test/</loc>
+    <loc>http://localhost:1313/blow/posts/test/</loc>
     <lastmod>2024-03-17T15:32:16+02:00</lastmod>
   </url><url>
-    <loc>https://mark199317.github.io/blow/search/</loc>
+    <loc>http://localhost:1313/blow/search/</loc>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://mark199317.github.io/blow/search/_index.es/</loc>
+    <loc>http://localhost:1313/blow/search/_index.es/</loc>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://mark199317.github.io/blow/search/_index.fr/</loc>
+    <loc>http://localhost:1313/blow/search/_index.fr/</loc>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://mark199317.github.io/blow/search/_index.hi/</loc>
+    <loc>http://localhost:1313/blow/search/_index.hi/</loc>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://mark199317.github.io/blow/search/_index.jp/</loc>
+    <loc>http://localhost:1313/blow/search/_index.jp/</loc>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://mark199317.github.io/blow/search/_index.pl/</loc>
+    <loc>http://localhost:1313/blow/search/_index.pl/</loc>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://mark199317.github.io/blow/search/_index.ru/</loc>
+    <loc>http://localhost:1313/blow/search/_index.ru/</loc>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://mark199317.github.io/blow/search/_index.zh-cn/</loc>
+    <loc>http://localhost:1313/blow/search/_index.zh-cn/</loc>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://mark199317.github.io/blow/tags/</loc>
+    <loc>http://localhost:1313/blow/tags/</loc>
   </url>
 </urlset>
