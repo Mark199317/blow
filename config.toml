@@ -24,9 +24,6 @@ ignoreErrors = ["error-remote-getjson"]
   threshold = 0.3 # https://www.fusejs.io/api/options.html#threshol
   
 
-# Настройки сборки (Build)
-[Build]
-  staticDir = ""
 
   [params.header]
     logo = "favicon.ico"

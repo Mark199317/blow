@@ -28,10 +28,10 @@ dsdasds
 ## ffdf
 
 sdasdsaaaaaaaaaaaaaaaaaaaaaaaaaaadsdsdd
-
+```
 function greet(name) {
     return "Hello, " + name + "!";
  }
 console.log(greet("World"));
-
-![alt text](/images/work/11.png)
+```  
+![alt text](/blow/images/work/11.png)
