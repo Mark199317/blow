@@ -41,7 +41,7 @@
     <loc>http://localhost:1313/blow/posts/test/</loc>
     <lastmod>2024-03-17T15:32:16+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blow/search/</loc>
+    <loc>http://localhost:1313/blow/search/_index.en/</loc>
     <priority>0.1</priority>
   </url><url>
     <loc>http://localhost:1313/blow/search/_index.es/</loc>
@@ -59,7 +59,7 @@
     <loc>http://localhost:1313/blow/search/_index.pl/</loc>
     <priority>0.1</priority>
   </url><url>
-    <loc>http://localhost:1313/blow/search/_index.ru/</loc>
+    <loc>http://localhost:1313/blow/search/</loc>
     <priority>0.1</priority>
   </url><url>
     <loc>http://localhost:1313/blow/search/_index.zh-cn/</loc>

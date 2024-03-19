@@ -5,7 +5,7 @@
     <link>http://localhost:1313/blow/</link>
     <description>Recent content on New my site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>ru</language>
     <copyright>url-site</copyright>
     <lastBuildDate>Sun, 17 Mar 2024 16:36:29 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/blow/index.xml" rel="self" type="application/rss+xml" />
@@ -29,6 +29,13 @@
       <pubDate>Sun, 17 Mar 2024 15:32:16 +0200</pubDate>
       <guid>http://localhost:1313/blow/posts/test/</guid>
       <description>dsdadasd&#xA;asasas dsdasds ffdf sdasdsaaaaaaaaaaaaaaaaaaaaaaaaaaadsdsdd&#xA;function greet(name) { return &amp;#34;Hello, &amp;#34; + name + &amp;#34;!&amp;#34;; } console.log(greet(&amp;#34;World&amp;#34;)); </description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/blow/search/_index.en/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blow/search/_index.en/</guid>
+      <description></description>
     </item>
     <item>
       <title></title>
@@ -63,13 +70,6 @@
       <link>http://localhost:1313/blow/search/_index.pl/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/blow/search/_index.pl/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/blow/search/_index.ru/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/blow/search/_index.ru/</guid>
       <description></description>
     </item>
     <item>
