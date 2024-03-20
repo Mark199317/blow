@@ -3,16 +3,28 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/blow/categories/categories/</loc>
-    <lastmod>2024-03-17T16:36:29+02:00</lastmod>
+    <lastmod>2024-03-20T21:38:37+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blow/categories/</loc>
-    <lastmod>2024-03-17T16:36:29+02:00</lastmod>
+    <lastmod>2024-03-20T21:38:37+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blow/series/fdfsf/</loc>
-    <lastmod>2024-03-17T16:36:29+02:00</lastmod>
+    <lastmod>2024-03-20T21:38:37+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blow/</loc>
-    <lastmod>2024-03-17T16:36:29+02:00</lastmod>
+    <lastmod>2024-03-20T21:38:37+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blow/posts/</loc>
+    <lastmod>2024-03-20T21:38:37+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blow/series/</loc>
+    <lastmod>2024-03-20T21:38:37+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blow/posts/vwe/</loc>
+    <lastmod>2024-03-20T21:38:37+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/blow/series/%D0%BA%D0%BA%D0%BA/</loc>
+    <lastmod>2024-03-20T21:38:37+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blow/product/</loc>
     <lastmod>2024-03-17T16:36:29+02:00</lastmod>
@@ -20,20 +32,11 @@
     <loc>http://localhost:1313/blow/product/products/</loc>
     <lastmod>2024-03-17T16:36:29+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/blow/series/</loc>
-    <lastmod>2024-03-17T16:36:29+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blow/series/%D0%BA%D0%BA%D0%BA/</loc>
-    <lastmod>2024-03-17T16:36:29+02:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/blow/work/</loc>
     <lastmod>2024-03-17T16:35:02+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blow/work/works/</loc>
     <lastmod>2024-03-17T16:35:02+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blow/posts/</loc>
-    <lastmod>2024-03-17T15:32:16+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/blow/categories/test/</loc>
     <lastmod>2024-03-17T15:32:16+02:00</lastmod>

@@ -4,7 +4,7 @@ date = 2024-03-17T15:32:16+02:00
 draft = false
 author = "Admin"
 copyright = "© 2024 Все права защищены, пример.com"
-languageCode = 'ru'
+languageCode = "ru"
 enableInlineShortcodes = true
 enableRobotsTXT = true
 enableEmoji = true
@@ -28,11 +28,9 @@ dsdasds
 ## ffdf
 
 sdasdsaaaaaaaaaaaaaaaaaaaaaaaaaaadsdsdd
-```
+
 function greet(name) {
     return "Hello, " + name + "!";
  }
 console.log(greet("World"));
-```  
-![alt text](/blow/images/work/11.png)
 

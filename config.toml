@@ -10,8 +10,9 @@ theme = "tailwind"
 enableRobotsTXT = true
 enableEmoji = true
 ignoreErrors = ["error-remote-getjson"]
-
-
+    
+[markup]
+  _merge = "deep"
 
 [params]
   # dir name of your blog content (default is `content/posts`).
@@ -19,6 +20,7 @@ ignoreErrors = ["error-remote-getjson"]
   commit = false
   rss = true
   canonifyURLs = true
+
 
 [search]
   summaryInclude = 180 # show only part of content in search result.
@@ -82,20 +84,7 @@ series = "series"
     icon = 'brand-instagram'
     link = 'https://www.instagram.com/'
 
-[[social_media.items]]
-    enabled = false
-    title = 'Instagram'
-    icon = 'brand-instagram'
-    link = 'https://www.instagram.com/'
-
-  [[social_media.items]]
-    enabled = false
-    title = 'LinkedIn'
-    icon = 'brand-linkedin'
-    link = 'https://www.linkedin.com/'
-
-  [[social_media.items]]
-    enabled = false
-    title = 'Github'
-    icon = 'brand-github'
-    link = 'https://github.com/tomowang'
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.120.0"

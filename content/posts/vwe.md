@@ -1,6 +1,6 @@
 +++
-title = '{{ replace .File.ContentBaseName "-" " " | title }}'
-date = {{ .Date }}
+title = 'Vwe'
+date = 2024-03-20T21:38:37+02:00
 draft = false
 author = "Admin"
 copyright = "© 2024 Все права защищены, пример.com"
@@ -20,4 +20,6 @@ series = ["ккк", "fdfsf", ]
 +++
 
 
+## лучший сайт
 
+sdasdsadsd
