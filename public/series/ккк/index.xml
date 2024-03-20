@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ккк on New my site</title>
-    <link>http://localhost:1313/blow/series/%D0%BA%D0%BA%D0%BA/</link>
+    <link>https://mark199317.github.io/blow/series/%D0%BA%D0%BA%D0%BA/</link>
     <description>Recent content in Ккк on New my site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru</language>
     <copyright>url-site</copyright>
     <lastBuildDate>Sun, 17 Mar 2024 16:36:29 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/blow/series/%D0%BA%D0%BA%D0%BA/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mark199317.github.io/blow/series/%D0%BA%D0%BA%D0%BA/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Products</title>
-      <link>http://localhost:1313/blow/product/products/</link>
+      <link>https://mark199317.github.io/blow/product/products/</link>
       <pubDate>Sun, 17 Mar 2024 16:36:29 +0200</pubDate>
-      <guid>http://localhost:1313/blow/product/products/</guid>
+      <guid>https://mark199317.github.io/blow/product/products/</guid>
       <description>ПРОДАВАЕМЫЕ ПРОДУКТЫ ПАРТНЕРОК </description>
     </item>
     <item>
       <title>Works</title>
-      <link>http://localhost:1313/blow/work/works/</link>
+      <link>https://mark199317.github.io/blow/work/works/</link>
       <pubDate>Sun, 17 Mar 2024 16:35:02 +0200</pubDate>
-      <guid>http://localhost:1313/blow/work/works/</guid>
+      <guid>https://mark199317.github.io/blow/work/works/</guid>
       <description>Список партнерских программ image screenshot </description>
     </item>
     <item>
       <title>Test</title>
-      <link>http://localhost:1313/blow/posts/test/</link>
+      <link>https://mark199317.github.io/blow/posts/test/</link>
       <pubDate>Sun, 17 Mar 2024 15:32:16 +0200</pubDate>
-      <guid>http://localhost:1313/blow/posts/test/</guid>
+      <guid>https://mark199317.github.io/blow/posts/test/</guid>
       <description>dsdadasd&#xA;asasas dsdasds ffdf sdasdsaaaaaaaaaaaaaaaaaaaaaaaaaaadsdsdd&#xA;function greet(name) { return &amp;#34;Hello, &amp;#34; + name + &amp;#34;!&amp;#34;; } console.log(greet(&amp;#34;World&amp;#34;)); </description>
     </item>
   </channel>
