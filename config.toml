@@ -21,6 +21,13 @@ ignoreErrors = ["error-remote-getjson"]
   rss = true
   canonifyURLs = true
 
+[languages]
+[languages.ru]
+languageCode = 'ru-RU'
+languageName = 'Russian'
+weight = 1
+[languages.ru.params]
+a = 'a'
 
 [search]
   summaryInclude = 180 # show only part of content in search result.
