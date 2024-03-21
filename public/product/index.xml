@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Products on New my site</title>
-    <link>https://fastidious-zabaione-e5476d.netlify.app/product/</link>
+    <link>https://www.youprogress.info/product/</link>
     <description>Recent content in Products on New my site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-RU</language>
     <copyright>url-site</copyright>
     <lastBuildDate>Sun, 17 Mar 2024 16:36:29 +0200</lastBuildDate>
-    <atom:link href="https://fastidious-zabaione-e5476d.netlify.app/product/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.youprogress.info/product/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Products</title>
-      <link>https://fastidious-zabaione-e5476d.netlify.app/product/products/</link>
+      <link>https://www.youprogress.info/product/products/</link>
       <pubDate>Sun, 17 Mar 2024 16:36:29 +0200</pubDate>
-      <guid>https://fastidious-zabaione-e5476d.netlify.app/product/products/</guid>
+      <guid>https://www.youprogress.info/product/products/</guid>
       <description>ПРОДАВАЕМЫЕ ПРОДУКТЫ ПАРТНЕРОК </description>
     </item>
   </channel>
