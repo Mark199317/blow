@@ -34,4 +34,4 @@ function greet(name) {
  }
 console.log(greet("World"));
 
-![alt text](/blow/images/work/11.png)
+![alt text](/images/work/11.png)

@@ -22,8 +22,8 @@ series = ["ккк", "fdfsf", ]
 
 
 ## Список партнерских программ
-![alt text](/blow/images/work/11.png)
+![alt text](/images/work/11.png)
 
 ## image screenshot 
 
-![alt text](/blow/images/work/12.png)
+![alt text](/images/work/12.png)
