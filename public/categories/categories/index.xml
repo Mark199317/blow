@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on New my site</title>
-    <link>https://mark199317.github.io/blow/categories/categories/</link>
+    <link>http://localhost:1313/blow/categories/categories/</link>
     <description>Recent content in Categories on New my site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-RU</language>
     <copyright>url-site</copyright>
     <lastBuildDate>Wed, 20 Mar 2024 21:38:37 +0200</lastBuildDate>
-    <atom:link href="https://mark199317.github.io/blow/categories/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blow/categories/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Vwe</title>
-      <link>https://mark199317.github.io/blow/posts/vwe/</link>
+      <link>http://localhost:1313/blow/posts/vwe/</link>
       <pubDate>Wed, 20 Mar 2024 21:38:37 +0200</pubDate>
-      <guid>https://mark199317.github.io/blow/posts/vwe/</guid>
+      <guid>http://localhost:1313/blow/posts/vwe/</guid>
       <description>лучший сайт sdasdsadsd</description>
     </item>
     <item>
       <title>Products</title>
-      <link>https://mark199317.github.io/blow/product/products/</link>
+      <link>http://localhost:1313/blow/product/products/</link>
       <pubDate>Sun, 17 Mar 2024 16:36:29 +0200</pubDate>
-      <guid>https://mark199317.github.io/blow/product/products/</guid>
+      <guid>http://localhost:1313/blow/product/products/</guid>
       <description>ПРОДАВАЕМЫЕ ПРОДУКТЫ ПАРТНЕРОК </description>
     </item>
     <item>
       <title>Works</title>
-      <link>https://mark199317.github.io/blow/work/works/</link>
+      <link>http://localhost:1313/blow/work/works/</link>
       <pubDate>Sun, 17 Mar 2024 16:35:02 +0200</pubDate>
-      <guid>https://mark199317.github.io/blow/work/works/</guid>
+      <guid>http://localhost:1313/blow/work/works/</guid>
       <description>Список партнерских программ image screenshot </description>
     </item>
     <item>
       <title>Test</title>
-      <link>https://mark199317.github.io/blow/posts/test/</link>
+      <link>http://localhost:1313/blow/posts/test/</link>
       <pubDate>Sun, 17 Mar 2024 15:32:16 +0200</pubDate>
-      <guid>https://mark199317.github.io/blow/posts/test/</guid>
+      <guid>http://localhost:1313/blow/posts/test/</guid>
       <description>dsdadasd&#xA;asasas dsdasds ffdf sdasdsaaaaaaaaaaaaaaaaaaaaaaaaaaadsdsdd&#xA;function greet(name) { return &amp;ldquo;Hello, &amp;quot; + name + &amp;ldquo;!&amp;rdquo;; } console.log(greet(&amp;ldquo;World&amp;rdquo;));</description>
     </item>
   </channel>
