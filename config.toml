@@ -10,7 +10,15 @@ theme = "tailwind"
 enableRobotsTXT = true
 enableEmoji = true
 ignoreErrors = ["error-remote-getjson"]
-    
+
+[header]
+  logo = "/logo.svg"
+  sticky = false
+
+[footer]
+  since = 2024
+  poweredby = true
+
 [markup]
   _merge = "deep"
 
@@ -21,10 +29,11 @@ ignoreErrors = ["error-remote-getjson"]
   rss = true
   canonifyURLs = true
 
+
 [params.header]
     logo = "favico.png"
 
-  [params.footer]
+[params.footer]
     since = 2024
     poweredby = false
 
