@@ -22,7 +22,7 @@ ignoreErrors = ["error-remote-getjson"]
   canonifyURLs = true
 
 [params.header]
-    logo = "favic.ico"
+    logo = "favico.png"
 
   [params.footer]
     since = 2024
