@@ -67,7 +67,7 @@ a = 'a'
   [[menu.main]]
     identifier = "work"
     name = "Заработок в Интернете"
-    pageRef = "/work"
+    pageRef = "/work/works.md"
     weight = 3
 
 [taxonomies]
