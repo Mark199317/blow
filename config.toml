@@ -21,6 +21,13 @@ ignoreErrors = ["error-remote-getjson"]
   rss = true
   canonifyURLs = true
 
+[params.header]
+    logo = "favic.ico"
+
+  [params.footer]
+    since = 2024
+    poweredby = false
+
 [languages]
 [languages.ru]
 languageCode = 'ru-RU'
@@ -34,15 +41,6 @@ a = 'a'
   minMatchCharLength = 2 # https://www.fusejs.io/api/options.html#minmatchcharlength
   threshold = 0.3 # https://www.fusejs.io/api/options.html#threshol
   
-
-
-  [params.header]
-    logo = "favicon.ico"
-
-  [params.footer]
-    since = 2024
-    poweredby = false
-
 [menu]
 
   [[menu.main]]
