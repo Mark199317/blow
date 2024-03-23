@@ -3,10 +3,9 @@ title = '{{ replace .File.ContentBaseName "-" " " | title }}'
 date = {{ .Date }}
 draft = false
 author = "Admin"
-copyright = "© 2024 Все права защищены, пример.com"
+copyright = "© 2024 https://youprogress.info"
 languageCode = "ru"
 enableInlineShortcodes = true
-enableRobotsTXT = true
 enableEmoji = true
 asciinema = false
 toc = true # генерирует таблицу содержания из заголовков h2
@@ -15,9 +14,10 @@ keywords = "ключевые слова"
 subtitle = "краткое описание статьи"
 description = "Описание представляет собой краткое описание, которое обычно отображается в результатах поиска."
 categories = [ "categories" ]
-tag = [ "tags" ]
+tags = [ "tags" ]
 series = ["ккк", "fdfsf", ]
 +++
 
 
 
+C:\Users\Марк\Documents\GitHub\blow\content\images\work\11.png

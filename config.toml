@@ -1,7 +1,7 @@
 baseURL = "https://www.youprogress.info/"
-title = "New my site"
+title = "Полезное питание, здоровый образ жизни и методы лечения: советы и рецепты"
 author = "Admin"
-copyright = "url-site"
+copyright = "YOUPROGRESS.INFO"
 paginate = 10
 languageCode = "ru"
 defaultContentLanguage = "ru"
@@ -11,8 +11,13 @@ enableRobotsTXT = true
 enableEmoji = true
 ignoreErrors = ["error-remote-getjson"]
 
+[markup.tableOfContents]
+endLevel = 2
+order = false
+startLevel = 2
+
 [header]
-  logo = "/logo.svg"
+  logo = "snowy-owl.png"
   sticky = false
 
 [footer]
@@ -52,23 +57,30 @@ a = 'a'
   
 [menu]
 
-  [[menu.main]]
-    identifier = "post"
-    name = "Статьи"
-    pageRef = "/posts"
+[[menu.main]]
+    identifier = "health"
+    name = "ЗДОРОВЬЕ"
+    pageRef = "/health"
     weight = 1
 
-  [[menu.main]]
-    identifier = "product"
-    name = "Товары для здоровья"
-    pageRef = "/product"
+[[menu.main]]
+    identifier = "food"
+    name = "ПОЛЕЗНЫЕ ПРОДУКТЫ"
+    pageRef = "/food"
     weight = 2
 
   [[menu.main]]
-    identifier = "work"
-    name = "Заработок в Интернете"
-    pageRef = "/work/works.md"
+    identifier = "product"
+    name = "ТОВАРЫ ДЛЯ ЗДОРОВЬЯ"
+    pageRef = "/product"
     weight = 3
+
+  [[menu.main]]
+    identifier = "work"
+    name = "ЗАРАБОТАЙ В ИНТЕРНЕТЕ"
+    pageRef = "/work/works.md"
+    weight = 4
+
 
 [taxonomies]
 category = "categories"
