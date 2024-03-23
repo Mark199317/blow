@@ -10,14 +10,9 @@ enableEmoji = true
 asciinema = false
 toc = true # генерирует таблицу содержания из заголовков h2
 toclevels = 3 # к-во генерируемых заголовков h2
-keywords = "ключевые слова"
 subtitle = "краткое описание статьи"
 description = "Описание представляет собой краткое описание, которое обычно отображается в результатах поиска."
-categories = [ "categories" ]
-tags = [ "tags" ]
-series = ["ккк", "fdfsf", ]
+categories = [ "категории" ]
+tags = [ "теги" ]
+series = ["серия", "серия" ]
 +++
-
-
-
-C:\Users\Марк\Documents\GitHub\blow\content\images\work\11.png

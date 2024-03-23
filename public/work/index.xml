@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Works on Полезное питание, здоровый образ жизни и методы лечения: советы и рецепты</title>
-    <link>https://www.youprogress.info/work/</link>
+    <link>http://localhost:1313/work/</link>
     <description>Recent content in Works on Полезное питание, здоровый образ жизни и методы лечения: советы и рецепты</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-RU</language>
     <copyright>YOUPROGRESS.INFO</copyright>
     <lastBuildDate>Sun, 17 Mar 2024 16:35:02 +0200</lastBuildDate>
-    <atom:link href="https://www.youprogress.info/work/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/work/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Works</title>
-      <link>https://www.youprogress.info/work/works/</link>
+      <link>http://localhost:1313/work/works/</link>
       <pubDate>Sun, 17 Mar 2024 16:35:02 +0200</pubDate>
-      <guid>https://www.youprogress.info/work/works/</guid>
+      <guid>http://localhost:1313/work/works/</guid>
       <description>Список партнерских программ image screenshot </description>
     </item>
   </channel>
