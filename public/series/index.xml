@@ -2,46 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Series on Полезное питание, здоровый образ жизни и методы лечения: советы и рецепты</title>
-    <link>http://localhost:1313/series/</link>
+    <link>https://www.youprogress.info/series/</link>
     <description>Recent content in Series on Полезное питание, здоровый образ жизни и методы лечения: советы и рецепты</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-RU</language>
     <copyright>YOUPROGRESS.INFO</copyright>
-    <lastBuildDate>Sun, 24 Mar 2024 13:30:08 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Mar 2024 21:47:27 +0200</lastBuildDate>
+    <atom:link href="https://www.youprogress.info/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Кислоты</title>
+      <link>https://www.youprogress.info/series/%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D1%8B/</link>
+      <pubDate>Sun, 24 Mar 2024 21:47:27 +0200</pubDate>
+      <guid>https://www.youprogress.info/series/%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D1%8B/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Заболевание Мочеполовой Системы</title>
-      <link>http://localhost:1313/series/%D0%B7%D0%B0%D0%B1%D0%BE%D0%BB%D0%B5%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BC%D0%BE%D1%87%D0%B5%D0%BF%D0%BE%D0%BB%D0%BE%D0%B2%D0%BE%D0%B9-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/</link>
+      <link>https://www.youprogress.info/series/%D0%B7%D0%B0%D0%B1%D0%BE%D0%BB%D0%B5%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BC%D0%BE%D1%87%D0%B5%D0%BF%D0%BE%D0%BB%D0%BE%D0%B2%D0%BE%D0%B9-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/</link>
       <pubDate>Sun, 24 Mar 2024 13:30:08 +0200</pubDate>
-      <guid>http://localhost:1313/series/%D0%B7%D0%B0%D0%B1%D0%BE%D0%BB%D0%B5%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BC%D0%BE%D1%87%D0%B5%D0%BF%D0%BE%D0%BB%D0%BE%D0%B2%D0%BE%D0%B9-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/</guid>
+      <guid>https://www.youprogress.info/series/%D0%B7%D0%B0%D0%B1%D0%BE%D0%BB%D0%B5%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5-%D0%BC%D0%BE%D1%87%D0%B5%D0%BF%D0%BE%D0%BB%D0%BE%D0%B2%D0%BE%D0%B9-%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D1%8B/</guid>
       <description></description>
     </item>
     <item>
       <title>Заболевания Полости Рта</title>
-      <link>http://localhost:1313/series/%D0%B7%D0%B0%D0%B1%D0%BE%D0%BB%D0%B5%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D0%BF%D0%BE%D0%BB%D0%BE%D1%81%D1%82%D0%B8-%D1%80%D1%82%D0%B0/</link>
+      <link>https://www.youprogress.info/series/%D0%B7%D0%B0%D0%B1%D0%BE%D0%BB%D0%B5%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D0%BF%D0%BE%D0%BB%D0%BE%D1%81%D1%82%D0%B8-%D1%80%D1%82%D0%B0/</link>
       <pubDate>Sat, 23 Mar 2024 18:45:34 +0200</pubDate>
-      <guid>http://localhost:1313/series/%D0%B7%D0%B0%D0%B1%D0%BE%D0%BB%D0%B5%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D0%BF%D0%BE%D0%BB%D0%BE%D1%81%D1%82%D0%B8-%D1%80%D1%82%D0%B0/</guid>
+      <guid>https://www.youprogress.info/series/%D0%B7%D0%B0%D0%B1%D0%BE%D0%BB%D0%B5%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D0%BF%D0%BE%D0%BB%D0%BE%D1%81%D1%82%D0%B8-%D1%80%D1%82%D0%B0/</guid>
       <description></description>
     </item>
     <item>
       <title>Заболевания Носоглотки</title>
-      <link>http://localhost:1313/series/%D0%B7%D0%B0%D0%B1%D0%BE%D0%BB%D0%B5%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D0%BD%D0%BE%D1%81%D0%BE%D0%B3%D0%BB%D0%BE%D1%82%D0%BA%D0%B8/</link>
+      <link>https://www.youprogress.info/series/%D0%B7%D0%B0%D0%B1%D0%BE%D0%BB%D0%B5%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D0%BD%D0%BE%D1%81%D0%BE%D0%B3%D0%BB%D0%BE%D1%82%D0%BA%D0%B8/</link>
       <pubDate>Sat, 23 Mar 2024 14:52:13 +0200</pubDate>
-      <guid>http://localhost:1313/series/%D0%B7%D0%B0%D0%B1%D0%BE%D0%BB%D0%B5%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D0%BD%D0%BE%D1%81%D0%BE%D0%B3%D0%BB%D0%BE%D1%82%D0%BA%D0%B8/</guid>
+      <guid>https://www.youprogress.info/series/%D0%B7%D0%B0%D0%B1%D0%BE%D0%BB%D0%B5%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D0%BD%D0%BE%D1%81%D0%BE%D0%B3%D0%BB%D0%BE%D1%82%D0%BA%D0%B8/</guid>
       <description></description>
     </item>
     <item>
-      <title>Fdfsf</title>
-      <link>http://localhost:1313/series/fdfsf/</link>
+      <title>Series</title>
+      <link>https://www.youprogress.info/series/series/</link>
       <pubDate>Sun, 17 Mar 2024 16:36:29 +0200</pubDate>
-      <guid>http://localhost:1313/series/fdfsf/</guid>
+      <guid>https://www.youprogress.info/series/series/</guid>
       <description></description>
     </item>
     <item>
-      <title>Ккк</title>
-      <link>http://localhost:1313/series/%D0%BA%D0%BA%D0%BA/</link>
-      <pubDate>Sun, 17 Mar 2024 16:36:29 +0200</pubDate>
-      <guid>http://localhost:1313/series/%D0%BA%D0%BA%D0%BA/</guid>
+      <title>Заработок</title>
+      <link>https://www.youprogress.info/series/%D0%B7%D0%B0%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BE%D0%BA/</link>
+      <pubDate>Sun, 17 Mar 2024 16:35:02 +0200</pubDate>
+      <guid>https://www.youprogress.info/series/%D0%B7%D0%B0%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BE%D0%BA/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Партнерки</title>
+      <link>https://www.youprogress.info/series/%D0%BF%D0%B0%D1%80%D1%82%D0%BD%D0%B5%D1%80%D0%BA%D0%B8/</link>
+      <pubDate>Sun, 17 Mar 2024 16:35:02 +0200</pubDate>
+      <guid>https://www.youprogress.info/series/%D0%BF%D0%B0%D1%80%D1%82%D0%BD%D0%B5%D1%80%D0%BA%D0%B8/</guid>
       <description></description>
     </item>
   </channel>

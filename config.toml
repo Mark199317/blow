@@ -65,7 +65,7 @@ a = 'a'
 
 [[menu.main]]
     identifier = "food"
-    name = "ПОЛЕЗНЫЕ ПРОДУКТЫ"
+    name = "ПОЛЕЗНЫЕ ПРОДУКТЫ И БИОДОБАВКИ"
     pageRef = "/food"
     weight = 2
 
@@ -91,24 +91,6 @@ series = "series"
   [services.disqus]
     shortname = 'https-mark199317-github-io-blogws'
 
-[social_media]
-  [[social_media.items]]
-    enabled = true
-    title = 'Face-book'
-    icon = 'brand-facebook'
-    link = 'https://www.facebook.com/'
-
-  [[social_media.items]]
-    enabled = true
-    title = 'Twit-ter'
-    icon = 'brand-x'
-    link = 'https://twitter.com/'
-
-  [[social_media.items]]
-    enabled = true
-    title = 'Inst-agram'
-    icon = 'brand-instagram'
-    link = 'https://www.instagram.com/'
 
 [module]
   [module.hugoVersion]
