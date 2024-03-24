@@ -18,21 +18,3 @@ categories = [ "categories", "test" ]
 tags = [ "tags" , "test" , "еда" , "лекарство" ]
 series = ["ккк", "fdfsf", ]
 +++
-
-
-``dsdadasd``
-```
-asasas
-dsdasds
-```
-![alt text](/food/11.png)
-## ffdf
-
-sdasdsaaaaaaaaaaaaaaaaaaaaaaaaaaadsdsdd
-
-function greet(name) {
-    return "Hello, " + name + "!";
- }
-console.log(greet("World"));
-
-![alt text](/images/work/11.png)

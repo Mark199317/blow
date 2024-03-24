@@ -78,7 +78,7 @@ a = 'a'
   [[menu.main]]
     identifier = "work"
     name = "ЗАРАБОТАЙ В ИНТЕРНЕТЕ"
-    pageRef = "/work/works.md"
+    pageRef = "/work/партнерки.md"
     weight = 4
 
 
