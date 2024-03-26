@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Категории on Полезное питание, здоровый образ жизни и методы лечения: советы и рецепты</title>
-    <link>https://www.youprogress.info/categories/%D0%BA%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8/</link>
+    <link>http://localhost:1313/categories/%D0%BA%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8/</link>
     <description>Recent content in Категории on Полезное питание, здоровый образ жизни и методы лечения: советы и рецепты</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-RU</language>
     <copyright>YOUPROGRESS.INFO</copyright>
-    <lastBuildDate>Sun, 24 Mar 2024 21:47:27 +0200</lastBuildDate>
-    <atom:link href="https://www.youprogress.info/categories/%D0%BA%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Mar 2024 20:10:23 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/%D0%BA%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D0%B8/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Альфа-липоевая кислота(АЛК)-свойства и применение</title>
-      <link>https://www.youprogress.info/food/%D0%B0%D0%BB%D1%8C%D1%84%D0%B0%D0%BB%D0%B8%D0%BF%D0%BE%D0%BB%D0%B8%D0%B5%D0%B2%D0%B0%D1%8F/%D0%B0%D0%BB%D1%8C%D1%84%D0%B0%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0/</link>
-      <pubDate>Sun, 24 Mar 2024 21:47:27 +0200</pubDate>
-      <guid>https://www.youprogress.info/food/%D0%B0%D0%BB%D1%8C%D1%84%D0%B0%D0%BB%D0%B8%D0%BF%D0%BE%D0%BB%D0%B8%D0%B5%D0%B2%D0%B0%D1%8F/%D0%B0%D0%BB%D1%8C%D1%84%D0%B0%D0%BA%D0%B8%D1%81%D0%BB%D0%BE%D1%82%D0%B0/</guid>
-      <description>Альфа-липоевая кислота(также известная как тиоктовая кислота) является антиоксидантом, который производится естественным образом в организме человека. Она играет важную роль в метаболизме углеводов и жиров, а также защищает клетки от окислительного стресса. Альфа-липоевая кислота используется в качестве дополнительного средства для поддержания здоровья, особенно с учетом ее антиоксидантных свойств и возможного улучшения чувствительности к инсулину у людей с диабетом.&#xA;Альфа-липоевую кислота содержится в красном мясе, моркови, свекле, шпинате, брокколи и картофеле. Она также продается в виде добавок(БАД).</description>
+      <title>Гречка</title>
+      <link>http://localhost:1313/food/%D0%B3%D1%80%D0%B5%D1%87%D0%BA%D0%B0/%D0%B3%D1%80%D0%B5%D1%87%D0%BA%D0%B0/</link>
+      <pubDate>Tue, 26 Mar 2024 20:10:23 +0200</pubDate>
+      <guid>http://localhost:1313/food/%D0%B3%D1%80%D0%B5%D1%87%D0%BA%D0%B0/%D0%B3%D1%80%D0%B5%D1%87%D0%BA%D0%B0/</guid>
+      <description>Гречневая крупа(гречка) - это продукт, получаемый из семян гречихи (вид травянистых растений семейства Гречишные). Это распространенная крупа, широко используемая в кулинарии различных стран. Гречневая крупа богата питательными веществами, такими как белки, углеводы, витамины и минералы, и часто входит в состав различных блюд, таких как каши, супы, салаты и десерты. Она также известна своим характерным ореховым вкусом и ароматом.&#xA;Гречка на самом деле является псевдозерном (то есть имеет сходства с зерновыми по структуре и способу приготовления, но происходит она от семян растения, которое не относится к семейству злаковых).</description>
     </item>
   </channel>
 </rss>
