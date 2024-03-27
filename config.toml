@@ -69,11 +69,6 @@ a = 'a'
     pageRef = "/food"
     weight = 2
 
-  [[menu.main]]
-    identifier = "product"
-    name = "ТОВАРЫ ДЛЯ ЗДОРОВЬЯ"
-    pageRef = "/product"
-    weight = 3
 
   [[menu.main]]
     identifier = "work"
